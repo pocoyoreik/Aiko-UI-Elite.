@@ -1,0 +1,22 @@
+¡Hola! Soy pocoyoreik. Comparto esta interfaz de forma gratuita para que la comunidad la use y la mejore como quiera.
+
+Instrucciones rápidas:
+
+Necesitas Python instalado.
+
+Instala los requisitos: pip install PyQt6.
+
+Ejecuta: python Aiko_Pro_PyQt_Elegant.py.
+
+¡Disfrútala y crea algo increíble!
+
+💾 Cómo guardar y salir de Nano
+Una vez que termines de escribir:
+
+Presiona Control + O (para guardar).
+
+Presiona Enter (para confirmar el nombre).
+
+Presiona Control + X (para salir del editor).
+
+¡Y listo! Ya tendrás tu archivo LEEME.txt junto a tu código de Aiko_Pro_PyQt_Elegant.py. Cuando estés satisfecho, solo copias esos dos archivos a tu carpeta de "Aiko-UI-Elite" y estarás listo para subirlo a internet.
